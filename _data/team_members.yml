@@ -1,58 +1,58 @@
-- name: Milan P Allan
+- name: 추상현 (Sanghyun Choo)
   photo: Milan1.jpg
-  info: Professor
-  email: milan.allan@gmail.com
+  info: Assistant Professor
+  email: schoo@kumoh.ac.kr
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education1: Assistant Professor, Industrial Engineering, kit
+  education2: Postdoc, Oak Ridge National Lab 
+  education3: Ph.D., Industrial Engineering, North Carolina State University
+  education4: M.S., IE, kit
+  education5: B.S., IE, kit
 
-- name: Jiasen Niu
+- name: Benitadian
   photo: Jiasen.png
-  info: Leader Leiden Branch, started Oct 2020
+  info: M.S. Student
   email: niu@physics.leidenuniv.nl
   number_educ: 2
   education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
   education2: BSc Jilin University
 
-- name: Yudai Sato
+- name: Aulia
   photo: Sato.jpeg
-  info: Postdoc, started September 2023
+  info: M.S. Student
   email: jwlee0421@postech.ac.kr
   number_educ: 2
   education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
   education2: Master, University of Tokyo
 
-- name: Thomas Gozlinski
+- name: 김진주
   photo: Thomas.jpg
-  info: Akademischer Rat, since November 2023
+  info: Undergraduate Researcher
   email: benschop@physics.leidenuniv.nl
   number_educ: 2
   education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php)
   education2: MSc KIT
 
-- name: Premakumar Yanda
+- name: 이도현
   photo: Yanda.png
-  info: Postdoc, since March 2025
+  info: Undergraduate Researcher
   email: benschop@physics.leidenuniv.nl
   number_educ: 2
   education1: PhD, JNCASR, with A. Sundaresan
   education2: MSc, Andhra University
 
-- name: Stefan Rudel
+- name: 진현준
   photo: Stefan.png
-  info: Postdoc, shared with [Kloß lab](https://kloss.cup.uni-muenchen.de/dr-simon-kloss/)
+  info: Undergraduate Researcher
   email: benschop@physics.leidenuniv.nl
   number_educ: 3
   education1: Postdoc LMU Munich with [Wolfgang Schnick](https://www.cup.uni-muenchen.de/ac/schnick/prof-dr-w-schnick/)
   education2: PhD TUM and University of Marburg with [Florian Kraus](https://www.uni-marburg.de/de/fb15/arbeitsgruppen/anorganische_chemie/ag-kraus)
   education3: MSc TUM
 
-- name: Devidas TR
+- name: 구보명
   photo: Devidas.png
-  info: Postdoc
+  info: Undergraduate Researcher
   email: benschop@physics.leidenuniv.nl
   number_educ: 2
   education1: Postdoc Bar-Ilan with [Beena Kalisky](https://beenalab.biu.ac.il)
