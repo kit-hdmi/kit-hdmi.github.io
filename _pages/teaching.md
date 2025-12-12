@@ -1,16 +1,10 @@
 ---
 title: "HDMI Lab - Teaching"
-layout: page
-excerpt: "Teaching"
+layout: textlay
+excerpt: "HDMI Lab -- Teaching"
 sitemap: false
 permalink: /teaching/
 ---
-
-
-
-
-
-
 
 
 ### Graduate Courses
