@@ -6,12 +6,14 @@ sitemap: false
 permalink: /teaching/
 ---
 
+
+
 # Teaching
 
-## Graduate Courses
+### Graduate Courses
 - Generative AI (2025-2)
 
-## Undergraduate Courses
+### Undergraduate Courses
 - Data Mining (2024-2, 2025-2)
 - Data Science (2025-1)
 - Deep Learning Application (2024-1, 2025-1)
