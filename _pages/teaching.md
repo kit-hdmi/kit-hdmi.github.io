@@ -1,14 +1,17 @@
 ---
 title: "HDMI Lab - Teaching"
 layout: page
-excerpt: "HDMI Lab: Teaching"
+excerpt: "Teaching"
 sitemap: false
 permalink: /teaching/
 ---
 
 
 
-# Teaching
+
+
+
+
 
 ### Graduate Courses
 - Generative AI (2025-2)
