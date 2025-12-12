@@ -1,6 +1,8 @@
 ---
-layout: page
-title: "Teaching"
+title: "HDMI Lab - Teaching"
+layout: gridlay
+excerpt: "HDMI Lab: Teaching"
+sitemap: false
 permalink: /teaching/
 ---
 
