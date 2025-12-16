@@ -30,25 +30,22 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <i>email: <{{ member.email }}></i>
 
   {% if member.number_educ == 1 %}
-  {{ member.education1 }}
+  {{ member.education1 }}<br>
   {% endif %}
 
   {% if member.number_educ == 2 %}
   {{ member.education1 | markdownify}}<br>
-  {{ member.education2 | markdownify}}
+  {{ member.education2 | markdownify}}<br>
   {% endif %}
 
   {% if member.number_educ == 3 %}
   {{ member.education1 | markdownify}}<br>
   {{ member.education2 | markdownify}}<br>
-  {{ member.education3 | markdownify}}
+  {{ member.education3 | markdownify}}<br>
   {% endif %}
   
-  {% if member.research_interests %}
-    <br>
-    <i>research interests: {{ member.research_interests | join: ", " }}</i>
-  {% endif %}
-<br>
+  <i>research interests: {{ member.research_interests}}</i>
+
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
