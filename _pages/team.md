@@ -43,13 +43,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {{ member.education2 | markdownify}}<br>
   {{ member.education3 | markdownify}}
   {% endif %}
+  
+  {% if member.research_interests %}
+    <br>
+    <i>research interests: {{ member.research_interests | join: ", " }}</i>
+  {% endif %}
 <br>
-{% if member.research_interests %}
-  <h5>research interests:
-    {% for interest in member.research_interests %}
-    {{ interest }}
-    {% endfor %}
-  {% endif %}<h5>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
