@@ -7,12 +7,12 @@ permalink: /
 ---
 
 <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/HDMI_Logo.png"
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hdmi_logo.png"
        alt="HDMI Lab Logo"
        style="max-width: 380px; width: 100%;">
 </div>
 
-**HDMI (Human-centered Data & Machine Intelligence)** Lab at [Kumoh National Institute of Technology (kit)](https://www.kumoh.ac.kr/ko/index.do?sso=ok) advances next-generation AI that is trustworthy, privacy-preserving, and designed for real-world industrial impact. Our mission is to develop intelligence that understands human needs, learns from high-quality data, and acts safely and effectively in complex environments.
+**HDMI (Human-centered Data & Machine Intelligence)** Lab at [Kumoh National Institute of Technology (kit)](https://www.kumoh.ac.kr/ko/index.do?sso=ok) advances next-generation AI that is trustworthy, privacy-preserving, and designed for real-world industrial applications. Our mission is to develop intelligence that understands human needs, learns from high-quality data, and acts safely and effectively in complex environments.
 
 Core Researach Areas:
 - **Human-centered AI**: Building trustworthy, safe, and privacy-preserving AI aligned with human values. 
