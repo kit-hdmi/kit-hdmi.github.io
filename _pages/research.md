@@ -1,15 +1,15 @@
 ---
-title: "Allan Lab - Research"
+title: "HDMI Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "HDMI Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Updating soon -- stay put. (Aug 11 2023)
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+- **Human-centered AI**: Building trustworthy, safe, and privacy-preserving AI aligned with human values. 
+- **Data-centric Intelligence**: Developing robust and efficient machine intelligence through high-quality data and multimodal data.
+- **Agentic AI**: Creating autonomous AI agents capable of reasoning, planning, and acting in real-world industrial environments.
 
 
