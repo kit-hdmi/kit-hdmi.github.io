@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hdmi_logo.png"
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/HDMI_Logo.png"
        alt="HDMI Lab Logo"
        style="max-width: 380px; width: 100%;">
 </div>
