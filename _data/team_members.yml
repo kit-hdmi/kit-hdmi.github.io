@@ -2,7 +2,7 @@
   photo: Milan1.jpg
   info: Assistant Professor
   email: schoo@kumoh.ac.kr
-  number_educ: 5
+  number_educ: 3
   education1: Assistant Professor, Industrial Engineering, kit
   education2: Postdoc, Oak Ridge National Lab 
   education3: Ph.D., Industrial Engineering, North Carolina State University
@@ -36,7 +36,6 @@
   photo: Yanda.png
   info: Undergraduate Researcher
   email: benschop@physics.leidenuniv.nl
-  number_educ: 2
   research_interests: Privacy-Preserving AI
 
 - name: 진현준 (Hyunjun Jin)
