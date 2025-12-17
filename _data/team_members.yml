@@ -6,60 +6,50 @@
   education1: Assistant Professor, Industrial Engineering, kit
   education2: Postdoc, Oak Ridge National Lab 
   education3: Ph.D., Industrial Engineering, North Carolina State University
-  education4: M.S., IE, kit
-  education5: B.S., IE, kit
   research_interests: HCAI, LLM
 
-- name: Benitadian
-  photo: Jiasen.png
+- name: Benita Dian
+  photo: Benita.jpg
   info: M.S. Student
-  email: niu@physics.leidenuniv.nl
+  email: benitadian01@gmail.com
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: B.S., Industrial Engineering
+  education2: University of Indonesia
+  research_interests: Renewable Energy, AI
 
-- name: Aulia
-  photo: Sato.jpeg
+- name: Aulia Rizqi
+  photo: Aulia.jpg
   info: M.S. Student
-  email: jwlee0421@postech.ac.kr
+  email: auliarizqiw@gmail.com
   number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
+  education1: B.S., Computer Science
+  education2: Indraprasta PGRI University
+  research_interests: Service Quality Optimization, AI
 
 - name: 김진주 (Jinju Kim)
-  photo: Thomas.jpg
+  photo: Jinju.jpg
   info: Undergraduate Researcher
   email: zhu0926@naver.com
-  number_educ: 2
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php)
-  education2: MSc KIT
+  research_interests: Hallucination Detection/Mitigation, LLM 
 
-- name: 이도현
+- name: 이도현 (Dohyun Lee)
   photo: Yanda.png
   info: Undergraduate Researcher
   email: benschop@physics.leidenuniv.nl
   number_educ: 2
-  education1: PhD, JNCASR, with A. Sundaresan
-  education2: MSc, Andhra University
+  research_interests: Privacy-Preserving AI
 
-- name: 진현준
+- name: 진현준 (Hyunjun Jin)
   photo: Stefan.png
   info: Undergraduate Researcher
   email: benschop@physics.leidenuniv.nl
-  number_educ: 3
-  education1: Postdoc LMU Munich with [Wolfgang Schnick](https://www.cup.uni-muenchen.de/ac/schnick/prof-dr-w-schnick/)
-  education2: PhD TUM and University of Marburg with [Florian Kraus](https://www.uni-marburg.de/de/fb15/arbeitsgruppen/anorganische_chemie/ag-kraus)
-  education3: MSc TUM
+  research_interests: Efficient AI, PEFT
 
-- name: 구보명
+- name: 구보명 (Bomyeong Koo)
   photo: Devidas.png
-  info: Undergraduate Researcher
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: 
-  education2: 
-  education3:
-  research_interests: LLM 
+  info: Undergraduate Researcherqq
+  email: 9bori0211@kumoh.ac.kr
+  research_interests: Human-Centered AI
 
 - name: "This could be you !"
   photo: rock.jpg
