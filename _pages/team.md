@@ -1,19 +1,13 @@
 ---
-title: "HDMI Lab - Team"
+title: "HDMI Lab - Members"
 layout: gridlay
-excerpt: "HDMI Lab -- Team members"
+excerpt: "HDMI Lab -- Members"
 sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Current Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-## Current Members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -24,28 +18,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" style="float: left; width: 120px; height: 120px; object-fit: cover; object-position: top; margin-right: 16px; border-radius: 10%;" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br></i>
-  <i>email: <{{ member.email }}></i>
-
-  {% if member.number_educ == 1 %}
-  {{ member.education1 }}
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  {{ member.education1 }}<br>
-  {{ member.education2 }}
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  {{ member.education1 }}<br>
-  {{ member.education2 }}<br>
-  {{ member.education3 }}
-  {% endif %}
-  
-  <i>research interests: {{ member.research_interests}}</i>
-
+  <i>{{ member.info }}</i><br>
+  <i>Email: {{ member.email }}</i>{% if member.education1 %}<br>
+  <i>{{ member.education1 }}</i><br>
+  <i>{{ member.education2 }}</i>{% endif %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -60,6 +38,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
 
 ## Alumni
 - 장지원, Undergraduate Researcher (2024.03 - 2025.12), Current Position: TBD

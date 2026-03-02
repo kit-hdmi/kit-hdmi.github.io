@@ -450,7 +450,7 @@ label {
 // Containers =================================================================
 
 .well {
-  border: 1px solid $navbar-default-border;
+  border: 1px solid #ddd;
   @include box-shadow(inset 0 2px 0 rgba(0, 0, 0, 0.05));
 }
 
@@ -502,7 +502,7 @@ a.list-group-item {
 }
 
 .panel {
-  border: 1px solid $navbar-default-border;
+  border: 1px solid #ddd;
   @include shadow();
 
   &-default {

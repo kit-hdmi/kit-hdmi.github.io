@@ -1,60 +1,35 @@
-- name: 추상현 (Sanghyun Choo)
-  photo: Milan1.jpg
-  info: Assistant Professor
-  email: schoo@kumoh.ac.kr
-  number_educ: 3
-  education1: Assistant Professor, Industrial Engineering, kit
-  education2: Postdoc, Oak Ridge National Lab 
-  education3: Ph.D., Industrial Engineering, North Carolina State University
-  research_interests: HCAI, LLM
-
-- name: Benita Dian
-  photo: Benita.jpg
-  info: M.S. Student
-  email: benitadian01@gmail.com
-  number_educ: 2
-  education1: B.S., Industrial Engineering
-  education2: University of Indonesia
-  research_interests: Renewable Energy, AI
-
-- name: Aulia Rizqi
-  photo: Aulia.jpg
-  info: M.S. Student
-  email: auliarizqiw@gmail.com
-  number_educ: 2
-  education1: B.S., Computer Science
-  education2: Indraprasta PGRI University
-  research_interests: Service Quality Optimization, AI
-
 - name: 김진주 (Jinju Kim)
   photo: Jinju.jpg
-  info: Undergraduate Researcher
+  info: Master Student
   email: zhu0926@naver.com
-  research_interests: Hallucination Detection/Mitigation, LLM 
+  education1: "B.S., Industrial Engineering"
+  education2: "Kumoh National Institute of Technology"
+
+- name: Purnamasari Benita Dian
+  photo: Benita.jpg
+  info: Master Student
+  email: benitadian01@gmail.com
+  education1: "B.S., Industrial Engineering"
+  education2: "University of Indonesia"
+
+- name: Wahidah Aulia Rizqi
+  photo: Aulia.png
+  info: Master Student
+  email: auliarizqiw@gmail.com
+  education1: "B.S., Computer Science"
+  education2: "Indraprasta PGRI University"
 
 - name: 이도현 (Dohyun Lee)
-  photo: Yanda.png
+  photo: Dohyeon.jpg
   info: Undergraduate Researcher
-  email: benschop@physics.leidenuniv.nl
-  research_interests: Privacy-Preserving AI
+  email: leedoeh@kumoh.ac.kr
 
 - name: 진현준 (Hyunjun Jin)
-  photo: Stefan.png
+  photo: Hyeonjun.jpg
   info: Undergraduate Researcher
-  email: benschop@physics.leidenuniv.nl
-  research_interests: Efficient AI, PEFT
+  email: 20231152@kumoh.ac.kr
 
 - name: 구보명 (Bomyeong Koo)
-  photo: Devidas.png
-  info: Undergraduate Researcherqq
+  photo: Bomyung.jpg
+  info: Undergraduate Researcher
   email: 9bori0211@kumoh.ac.kr
-  research_interests: Human-Centered AI
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
