@@ -101,7 +101,7 @@ permalink: /professor/
 - IEEE Transactions on Affective Computing (2021)
 - Expert Systems with Applications (2024)
 - Knowledge-Based Systems (2023)
-- Engineering Applications of Artificial Intelligence
+- Engineering Applications of Artificial Intelligence (2024)
 - Annals of Operations Research (2022)
 - Journal of Engineering Research (2024)
 - Data Technologies & Applications (2019, 2020)
