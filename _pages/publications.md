@@ -15,8 +15,6 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 <ol reversed>
 <li>Lee, E.*, <b>Choo, S.*</b>, Maguire, D., et al. (under revision). Comparing machine and deep learning models for pediatric anxiety classification using structured EHRs. (*Co-first authors)</li>
 
-<li>Ive, J., Santel, D., Glauser, T., Cheng, T., Agasthya, G., Tschida, J., <b>Choo, S.</b>, Chandrashekar, M., Kapadia, A., & Pestian, J. (under revision). Addressing bias in pediatric mental health text analysis.</li>
-
 <li><b>Choo, S.</b> (in preparation). Knowledge distillation with noise.</li>
 
 <li><b>Choo, S.</b> (in preparation). Subliminal learning for affective computing.</li>
@@ -29,6 +27,8 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 ## Peer-Reviewed Journal Articles
 
 <ol reversed>
+<li>Ive, J., Bondaronek, P., Yadav, V., Santel, D., Glauser, T., Strawn, J. R., Agasthya, G., Tschida, J., <b>Choo, S.</b>, Chandrashekar, M., Kapadia, A. J., & Pestian, J. (2026). A data-centric approach to detecting and mitigating demographic bias in pediatric mental health text. <i>Communications Medicine</i>.</li>
+
 <li><b>Choo, S.</b>, Park, H., Jung, J., Flores, K., & Nam, C. S. (2024). Improving classification performance of motor imagery BCI through EEG data augmentation with conditional generative adversarial networks. <i>Neural Networks</i>, <i>180</i>, 106665.</li>
 
 <li>Park, D., Park, H., Kim, S., <b>Choo, S.</b>, Nam, C. S., Lee, S., & Jung, J. (2023). Spatio-temporal explanation of 3D-EEGNet for brain-computer interface. <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i>, <i>31</i>, 4504–4513.</li>
