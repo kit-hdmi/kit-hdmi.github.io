@@ -13,13 +13,18 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 ## Working Papers
 
 <ol reversed>
+<li><b>Choo, S.*</b>, Son, Y.*, Kim, W. (submitted). Which Speech Channel Matters for Which User State? Explainable Acoustic-Linguistic Fusion in Human-Robot Collaboration. (*Co-first authors)</li>
+
 <li>Lee, E.*, <b>Choo, S.*</b>, Maguire, D., et al. (under revision). Comparing machine and deep learning models for pediatric anxiety classification using structured EHRs. (*Co-first authors)</li>
 
-<li><b>Choo, S.</b> (in preparation). Knowledge distillation with noise.</li>
+<li>Jin, H., <b>Choo, S.</b> (in preparation). Quantized PEFT Framework with Bit-First Allocation and Adaptive Rank</li>
 
-<li><b>Choo, S.</b> (in preparation). Subliminal learning for affective computing.</li>
+<li>Lee, D., <b>Choo, S.</b> (in preparation). Similarity-Aware Directional Alignment Framework for Mitigating Client Drift in Federated Learning.</li>
 
-<li><b>Choo, S.</b>, et al. (in preparation). Privacy-preserving machine learning for pathology report classification.</li>
+<li>Koo, B., <b>Choo, S.</b> (in preparation). Fairness-Aware Reasoning Framework for Social Bias Mitigation with RBD.</li>
+
+<li>Jeong, S., <b>Choo, S.</b> (in preparation). Improving Subliminal Learning using Divergence Tokens.</li>
+
 </ol>
 
 ---
