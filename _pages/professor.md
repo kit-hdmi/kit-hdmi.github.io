@@ -48,8 +48,9 @@ permalink: /professor/
 
 ## Grants
 
-- "Development of Human-Centered, Trustworthy, and Privacy-Preserving Agentic AI," National Research Foundation of Korea (NRF), PI, Sep 2025 -- Present
-- "Development of Analysis Techniques for Speaker Defects," Emsonic Inc., Co-PI, Mar. 2026 -- Present
+- "Development of Human-Centered, Trustworthy, and Privacy-Preserving Agentic AI," National Research Foundation of Korea (NRF), PI, Sep. 2025 -- Aug. 2028
+- "Development of Analysis Techniques for Speaker Defects," Emsonic Inc., Co-PI, Mar. 2026 -- Feb. 2027
+- "Development of Unsupervised Learning-based AI Models and Optimization Technologies for Ultra-Precision Speaker Anomalous Sound Detection," RISE (Regional Growth Innovation LAB: L-Tiger), PI, Apr. 2026 -- Dec. 2026
 - "Development of Deep Learning Regularization Framework Using Federated Learning Approaches," Kumoh National Institute of Technology (kit), PI, Mar. 2024 -- Feb. 2026
 
 ---
