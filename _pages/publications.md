@@ -13,7 +13,11 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 ## Working Papers
 
 <ol reversed>
+<li><b>Choo, S.</b>, Kim, W. (submitted). Two Mechanisms of Self-Compensation in Autonomous Vehicle Trust: Driver Behaviors and the Hierarchical Trustworthiness Layer.</li>
+
 <li><b>Choo, S.*</b>, Son, Y.*, Kim, W. (submitted). Which Speech Channel Matters for Which User State? Explainable Acoustic-Linguistic Fusion in Human-Robot Collaboration. (*Co-first authors)</li>
+
+<li><b>Choo, S.</b>, Kim, W. (in preparation). Latent Footprints: Detecting Subliminal Trait Transfer in Hidden Representations.</li>
 
 <li>Jin, H., <b>Choo, S.</b> (in preparation). Quantized PEFT Framework with Bit-First Allocation and Adaptive Rank</li>
 
