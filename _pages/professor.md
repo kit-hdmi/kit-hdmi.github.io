@@ -87,8 +87,9 @@ permalink: /professor/
 ## Teaching
 
 - Generative AI (2025-2)
-- Data Mining (2024-2, 2025-2)
+- Data Mining (2024-2, 2025-2, 2026-2)
 - Data Science (2025-1, 2026-1)
+- Machine Learning (2026-2)
 - Deep Learning Application (2024-1, 2025-1, 2026-1)
 - Computer Programming Language (2025-1, 2026-1)
 - Probability and Statistics (2024-2)
