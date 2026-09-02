@@ -1,3 +1,11 @@
+- date: 7. July 2026
+  headline: "Kumoh National Institute of Technology (kit) has been selected as an AI-Centered University by the Ministry of Science and ICT (MSIT)."
+  details: "Fostering AI convergence talent and research through the AI-Centered University Project"
+
+- date: 4. May 2026
+  headline: "HDMI Lab members participated in the KIIE Spring Conference and presented three posters."
+  details: "Korean Institute of Industrial Engineers Spring Conference — (1) Fairness-aware reasoning framework for social bias mitigation with RBD (Bomyeong Koo, Sanghyun Choo); (2) Similarity-aware directional alignment framework for mitigating client drift in federated learning (Dohyun Lee, Sanghyun Choo); (3) Quantized PEFT framework with bit-first allocation and adaptive rank (Hyunjun Jin, Sanghyun Choo)"
+
 - date: 27. April 2026
   headline: "Awarded a research grant from RISE Industry-Academia-Research Joint Technology Development."
   details: "Development of Unsupervised Learning-based AI Models and Optimization Technologies for Ultra-Precision Speaker Anomalous Sound Detection"

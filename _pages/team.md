@@ -41,6 +41,7 @@ permalink: /team/
 
 
 ## Alumni
+- 구보명, Undergraduate Researcher (2025.11 - 2026.06), Current Position: Undergraduate Student at kit
 - 장지원, Undergraduate Researcher (2024.03 - 2025.12), Current Position: TBD
 - 김상민, Undergraduate Researcher (2024.03 - 2025.06), Current Position: Trainee of CISCO Security Academy - Cybersecurity Track
 - 최재준, Undergraduate Researcher (2024.03 - 2025.02), Current Position: Graduate Student at Kyung Hee University

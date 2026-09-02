@@ -34,9 +34,9 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 ## Peer-Reviewed Journal Articles
 
 <ol reversed>
-<li>Lee, E.*, <b>Choo, S.*</b>, Maguire, D., et al. (accepted). Comparing machine and deep learning models for pediatric anxiety classification using structured EHRs and area-based measures of health data. <i>PLOS One</i>. (*Co-first authors)</li>
+<li>Lee, E.*, <b>Choo, S.*</b>, Maguire, D., et al. (2026). Comparing machine and deep learning models for pediatric anxiety classification using structured EHRs and area-based measures of health data. <i>PLOS One</i>, <i>21</i>(5), e0324673. (*Co-first authors)</li>
 
-<li>Ive, J., Bondaronek, P., Yadav, V., Santel, D., Glauser, T., Strawn, J. R., Agasthya, G., Tschida, J., <b>Choo, S.</b>, Chandrashekar, M., Kapadia, A. J., & Pestian, J. (accepted). A data-centric approach to detecting and mitigating demographic bias in pediatric mental health text. <i>Communications Medicine</i>.</li>
+<li>Ive, J., Bondaronek, P., Yadav, V., Santel, D., Glauser, T., Strawn, J. R., Agasthya, G., Tschida, J., <b>Choo, S.</b>, Chandrashekar, M., Kapadia, A. J., & Pestian, J. (2026). A data-centric approach to detecting and mitigating demographic bias in pediatric mental health text. <i>Communications Medicine</i>, <i>6</i>, 221.</li>
 
 <li><b>Choo, S.</b>, Park, H., Jung, J., Flores, K., & Nam, C. S. (2024). Improving classification performance of motor imagery BCI through EEG data augmentation with conditional generative adversarial networks. <i>Neural Networks</i>, <i>180</i>, 106665.</li>
 
@@ -69,6 +69,12 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 
 <ol reversed>
 <li><b>Choo, S.</b>, Nam C. S. (accepted). Machine learning generalization under small data: Batch size effects in EEG CNN models. <i>Proceedings of the International Conference on Emerging Intelligent Technologies and Systems (EITS)</i>.</li>
+
+<li>Koo, B., & <b>Choo, S.</b> (2026). Fairness-aware reasoning framework for social bias mitigation with RBD. <i>Proceedings of the Korean Institute of Industrial Engineers Spring Conference</i>.</li>
+
+<li>Lee, D., & <b>Choo, S.</b> (2026). Similarity-aware directional alignment framework for mitigating client drift in federated learning. <i>Proceedings of the Korean Institute of Industrial Engineers Spring Conference</i>.</li>
+
+<li>Jin, H., & <b>Choo, S.</b> (2026). Quantized PEFT framework with bit-first allocation and adaptive rank. <i>Proceedings of the Korean Institute of Industrial Engineers Spring Conference</i>.</li>
 
 <li><b>Choo, S.</b> (2025). Brain-computer interface: From centralized learning to federated learning and beyond. <i>Proceedings of the Korean Institute of Intelligent Systems Conference</i>.</li>
 
