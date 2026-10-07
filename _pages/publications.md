@@ -13,6 +13,8 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 ## Working Papers
 
 <ol reversed>
+<li>(submitted). Score Normalization Is Not Enough: Band-Wise Whitening for Domain-Generalized Anomalous Sound Detection.</li>
+
 <li><b>Choo, S.</b>, Kim, W. (submitted). Two Mechanisms of Self-Compensation in Autonomous Vehicle Trust: Driver Behaviors and the Hierarchical Trustworthiness Layer.</li>
 
 <li><b>Choo, S.*</b>, Son, Y.*, Kim, W. (submitted). Which Speech Channel Matters for Which User State? Explainable Acoustic-Linguistic Fusion in Human-Robot Collaboration. (*Co-first authors)</li>
