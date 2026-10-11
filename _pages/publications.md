@@ -13,21 +13,19 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 ## Working Papers
 
 <ol reversed>
-<li>(submitted). Score Normalization Is Not Enough: Band-Wise Whitening for Domain-Generalized Anomalous Sound Detection.</li>
+<li><b>Choo, S.</b> (under review). Score Normalization Is Not Enough: Band-Wise Whitening for Domain-Generalized Anomalous Sound Detection.</li>
+
+<li>Kim, W., <b>Choo, S.</b> (under review). Evaluating Multimodal Self-Report Prediction in Human-Robot Collaboration: Personal History and Within-Worker Variation.</li>
+
+<li>Jeong, S., Kim, W., <b>Choo, S.</b> (submitted). Screening Distillation Data for Subliminal Learning Before Training: A Gradient Direction Consistency Test Without the Teacher.</li>
 
 <li><b>Choo, S.</b>, Kim, W. (submitted). Two Mechanisms of Self-Compensation in Autonomous Vehicle Trust: Driver Behaviors and the Hierarchical Trustworthiness Layer.</li>
 
 <li><b>Choo, S.*</b>, Son, Y.*, Kim, W. (submitted). Which Speech Channel Matters for Which User State? Explainable Acoustic-Linguistic Fusion in Human-Robot Collaboration. (*Co-first authors)</li>
 
-<li><b>Choo, S.</b>, Kim, W. (in preparation). Latent Footprints: Detecting Subliminal Trait Transfer in Hidden Representations.</li>
-
 <li>Jin, H., <b>Choo, S.</b> (in preparation). Quantized PEFT Framework with Bit-First Allocation and Adaptive Rank</li>
 
 <li>Lee, D., <b>Choo, S.</b> (in preparation). Similarity-Aware Directional Alignment Framework for Mitigating Client Drift in Federated Learning.</li>
-
-<li>Koo, B., <b>Choo, S.</b> (in preparation). Fairness-Aware Reasoning Framework for Social Bias Mitigation with RBD.</li>
-
-<li>Jeong, S., <b>Choo, S.</b> (in preparation). Improving Subliminal Learning using Divergence Tokens.</li>
 
 </ol>
 
