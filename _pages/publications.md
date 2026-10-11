@@ -19,9 +19,9 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 
 <li>Jeong, S., Kim, W., <b>Choo, S.</b> (submitted). Screening Distillation Data for Subliminal Learning Before Training: A Gradient Direction Consistency Test Without the Teacher.</li>
 
-<li><b>Choo, S.</b>, Kim, W. (submitted). Two Mechanisms of Self-Compensation in Autonomous Vehicle Trust: Driver Behaviors and the Hierarchical Trustworthiness Layer.</li>
+<li><b>Choo, S.</b>, Kim, W. (under revision). Two Mechanisms of Self-Compensation in Autonomous Vehicle Trust: Driver Behaviors and the Hierarchical Trustworthiness Layer.</li>
 
-<li><b>Choo, S.*</b>, Son, Y.*, Kim, W. (submitted). Which Speech Channel Matters for Which User State? Explainable Acoustic-Linguistic Fusion in Human-Robot Collaboration. (*Co-first authors)</li>
+<li><b>Choo, S.*</b>, Son, Y.*, Kim, W. (under review). Which Speech Channel Matters for Which User State? Explainable Acoustic-Linguistic Fusion in Human-Robot Collaboration. (*Co-first authors)</li>
 
 <li>Jin, H., <b>Choo, S.</b> (in preparation). Quantized PEFT Framework with Bit-First Allocation and Adaptive Rank</li>
 
