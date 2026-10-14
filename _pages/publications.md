@@ -17,7 +17,7 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 
 <li>Kim, W., <b>Choo, S.</b> (under review). Evaluating Multimodal Self-Report Prediction in Human-Robot Collaboration: Personal History and Within-Worker Variation.</li>
 
-<li>Jeong, S., Kim, W., <b>Choo, S.</b> (submitted). Screening Distillation Data for Subliminal Learning Before Training: A Gradient Direction Consistency Test Without the Teacher.</li>
+<li>Kim, W., <b>Choo, S.</b> (submitted). Screening Distillation Data for Subliminal Learning Before Training: A Gradient Direction Consistency Test Without the Teacher.</li>
 
 <li><b>Choo, S.</b>, Kim, W. (under revision). Two Mechanisms of Self-Compensation in Autonomous Vehicle Trust: Driver Behaviors and the Hierarchical Trustworthiness Layer.</li>
 
