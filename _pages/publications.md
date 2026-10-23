@@ -13,15 +13,17 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 ## Working Papers
 
 <ol reversed>
+<li><b>Choo, S.</b>, Kim, W. (under revision). Two Mechanisms of Self-Compensation in Autonomous Vehicle Trust: Driver Behaviors and the Hierarchical Trustworthiness Layer.</li>
+
 <li><b>Choo, S.</b> (under review). Score Normalization Is Not Enough: Band-Wise Whitening for Domain-Generalized Anomalous Sound Detection.</li>
 
 <li>Kim, W., <b>Choo, S.</b> (under review). Evaluating Multimodal Self-Report Prediction in Human-Robot Collaboration: Personal History and Within-Worker Variation.</li>
 
-<li>Kim, W., <b>Choo, S.</b> (submitted). Screening Distillation Data for Subliminal Learning Before Training: A Gradient Direction Consistency Test Without the Teacher.</li>
-
-<li><b>Choo, S.</b>, Kim, W. (under revision). Two Mechanisms of Self-Compensation in Autonomous Vehicle Trust: Driver Behaviors and the Hierarchical Trustworthiness Layer.</li>
+<li>Kim, W., <b>Choo, S.</b> (under review). Screening Distillation Data for Subliminal Learning Before Training: A Gradient Direction Consistency Test Without the Teacher.</li>
 
 <li><b>Choo, S.*</b>, Son, Y.*, Kim, W. (under review). Which Speech Channel Matters for Which User State? Explainable Acoustic-Linguistic Fusion in Human-Robot Collaboration. (*Co-first authors)</li>
+
+<li><b>Choo, S.</b> (submitted). Label Validity and the Incremental Value of Electroencephalography in Multimodal Attention Detection for Educational Video.</li>
 
 <li>Jin, H., <b>Choo, S.</b> (in preparation). Quantized PEFT Framework with Bit-First Allocation and Adaptive Rank</li>
 
