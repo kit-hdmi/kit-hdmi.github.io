@@ -23,13 +23,15 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 
 <li><b>Choo, S.*</b>, Son, Y.*, Kim, W. (under review). Which Speech Channel Matters for Which User State? Explainable Acoustic-Linguistic Fusion in Human-Robot Collaboration. (*Co-first authors)</li>
 
+<li>Lee, D., <b>Choo, S.</b> (under review). Federated Learning Framework with Similarity-Aware Directional Alignment for Motor Imagery Brain-Computer Interfaces.</li>
+
 <li>Kim, W., <b>Choo, S.</b> (submitted). Label Validity and the Incremental Value of Electroencephalography in Multimodal Attention Detection for Educational Video.</li>
+
+<li><b>Choo, S.</b>, et al. (submitted). TII — Anomalous sound detection.</li>
 
 <li>Kim, J., <b>Choo, S.</b> (in preparation). Dynamic Concept-Based Masking Framework for Anomalous Sound Detection.</li>
 
 <li>Jin, H., <b>Choo, S.</b> (in preparation). Quantized PEFT Framework with Bit-First Allocation and Adaptive Rank</li>
-
-<li>Lee, D., <b>Choo, S.</b> (in preparation). Similarity-Aware Directional Alignment Framework for Mitigating Client Drift in Federated Learning.</li>
 
 </ol>
 
