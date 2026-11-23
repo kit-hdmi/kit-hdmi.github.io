@@ -15,8 +15,6 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 <ol reversed>
 <li><b>Choo, S.</b>, Kim, W. (under revision). Two Mechanisms of Self-Compensation in Autonomous Vehicle Trust: Driver Behaviors and the Hierarchical Trustworthiness Layer.</li>
 
-<li>Kim, W., <b>Choo, S.</b> (under revision). Screening Distillation Data for Subliminal Learning Before Training: A Gradient Direction Consistency Test Without the Teacher.</li>
-
 <li><b>Choo, S.</b> (under review). Score Normalization Is Not Enough: Band-Wise Whitening for Domain-Generalized Anomalous Sound Detection.</li>
 
 <li>Kim, W., <b>Choo, S.</b> (under review). Evaluating Multimodal Self-Report Prediction in Human-Robot Collaboration: Personal History and Within-Worker Variation.</li>
@@ -24,8 +22,6 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 <li><b>Choo, S.*</b>, Son, Y.*, Kim, W. (under review). Which Speech Channel Matters for Which User State? Explainable Acoustic-Linguistic Fusion in Human-Robot Collaboration. (*Co-first authors)</li>
 
 <li>Lee, D., <b>Choo, S.</b> (under review). Federated Learning Framework with Similarity-Aware Directional Alignment for Motor Imagery Brain-Computer Interfaces.</li>
-
-<li>Kim, W., <b>Choo, S.</b> (submitted). Label Validity and the Incremental Value of Electroencephalography in Multimodal Attention Detection for Educational Video.</li>
 
 <li><b>Choo, S.</b>, et al. (submitted). TII — Anomalous sound detection.</li>
 
@@ -40,6 +36,8 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 ## Peer-Reviewed Journal Articles
 
 <ol reversed>
+<li>Kim, W., & <b>Choo, S.</b> (in press). Screening distillation data for subliminal learning before training: A gradient direction consistency test without the teacher. <i>Knowledge-Based Systems</i>.</li>
+
 <li>Lee, E.*, <b>Choo, S.*</b>, Maguire, D., et al. (2026). Comparing machine and deep learning models for pediatric anxiety classification using structured EHRs and area-based measures of health data. <i>PLOS One</i>, <i>21</i>(5), e0324673. (*Co-first authors)</li>
 
 <li>Ive, J., Bondaronek, P., Yadav, V., Santel, D., Glauser, T., Strawn, J. R., Agasthya, G., Tschida, J., <b>Choo, S.</b>, Chandrashekar, M., Kapadia, A. J., & Pestian, J. (2026). A data-centric approach to detecting and mitigating demographic bias in pediatric mental health text. <i>Communications Medicine</i>, <i>6</i>, 221.</li>
