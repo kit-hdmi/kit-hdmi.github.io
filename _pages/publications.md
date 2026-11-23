@@ -23,7 +23,7 @@ For a complete and up-to-date list, please visit [Google Scholar](https://schola
 
 <li>Lee, D., <b>Choo, S.</b> (under review). Federated Learning Framework with Similarity-Aware Directional Alignment for Motor Imagery Brain-Computer Interfaces.</li>
 
-<li><b>Choo, S.</b>, et al. (submitted). TII — Anomalous sound detection.</li>
+<li><b>Choo, S.</b>, et al. (under review). TII — Anomalous sound detection.</li>
 
 <li>Kim, J., <b>Choo, S.</b> (in preparation). Dynamic Concept-Based Masking Framework for Anomalous Sound Detection.</li>
 
